@@ -1,0 +1,1 @@
+this is a project build on maven, it's current function can be tested by junit "NGramTest.java" so just run the test and see the result
